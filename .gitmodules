@@ -1,0 +1,5 @@
+[submodule "sourcedata/movie10.fmriprep"]
+	path = sourcedata/movie10.fmriprep
+	url = https://github.com/courtois-neuromod/movie10.fmriprep
+	datalad-id = 3f0351b0-6d9f-4d05-841e-040cbe830bc7
+	datalad-url = https://github.com/courtois-neuromod/movie10.fmriprep
