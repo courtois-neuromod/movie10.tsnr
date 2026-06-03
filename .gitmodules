@@ -3,3 +3,8 @@
 	url = https://github.com/courtois-neuromod/movie10.fmriprep
 	datalad-id = 3f0351b0-6d9f-4d05-841e-040cbe830bc7
 	datalad-url = https://github.com/courtois-neuromod/movie10.fmriprep
+[submodule "code"]
+	path = code
+	url = https://github.com/courtois-neuromod/ds_prep
+	datalad-id = 1ea56af2-8e14-11ea-ba71-93977911da7b
+	datalad-url = https://github.com/courtois-neuromod/ds_prep
