@@ -1,0 +1,1 @@
+710d9610-190a-4ce5-86aa-563151c03bb4 autoenable=true bucket=cneuromod.movie10.tsnr chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.movie10.tsnr port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1785353016s
